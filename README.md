@@ -1,27 +1,32 @@
-# Thuc Phan 👋
+<p align="center">
+  <a href="https://thucphan.dev"><strong>🌐 thucphan.dev</strong></a>
+</p>
 
-Senior Data Engineer based in Helsinki, Finland 🇫🇮
+# Hi, I'm Thuc Phan 👋
+
+**Senior Data Engineer** — Helsinki, Finland 🇫🇮
 
 I build reliable data platforms and production-grade software with a focus on clarity, scalability, and long-term maintainability.
 
-## What I focus on
+---
 
-- Designing robust data pipelines ⚙️
-- Building analytics platforms for trusted decisions 📊
-- Improving data quality, observability, and engineering standards 🔍
+### 🚀 [Visit My Portfolio →](https://thucphan.dev)
 
-## How I work
+Interactive maps, project deep-dives, travel stories, and more — all at **[thucphan.dev](https://thucphan.dev)**.
 
-Simple architecture. Clear communication. Systems teams can confidently own over time.
+> *"Simple architecture. Clear communication. Systems teams can confidently own over time."*
 
-## Tech
+---
+
+### 🛠 Tech
 
 `Python` · `SQL` · `Spark` · `Airflow` · `dbt` · `Kafka` · `AWS` · `Docker` · `Terraform` · `TypeScript`
 
-## Links
+### 📬 Connect
 
-- 🌐 Website: [thucphan.dev](https://thucphan.dev)
-- ✉️ Email: [phan.thai.thuc@gmail.com](mailto:phan.thai.thuc@gmail.com)
+- 🌐 **Website:** [thucphan.dev](https://thucphan.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/phanthaithuc](https://linkedin.com/in/phanthaithuc)
+- ✉️ **Email:** [phan.thai.thuc@gmail.com](mailto:phan.thai.thuc@gmail.com)
 
 ---
 
