@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://thucphan.dev"><strong>🌐 thucphan.dev</strong></a>
-</p>
-
 # Hi, I'm Thuc Phan 👋
 
 **Senior Data Engineer** — Helsinki, Finland 🇫🇮
