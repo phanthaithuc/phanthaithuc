@@ -21,7 +21,7 @@ Interactive maps, project deep-dives, travel stories, and more — all at **[thu
 ### 📬 Connect
 
 - 🌐 **Website:** [thucphan.dev](https://thucphan.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/phanthaithuc](https://linkedin.com/in/phanthaithuc)
+- 💼 **LinkedIn:** [linkedin.com/in/phanthaithuc](https://linkedin.com/in/phan-thai-thuc)
 - ✉️ **Email:** [phan.thai.thuc@gmail.com](mailto:phan.thai.thuc@gmail.com)
 
 ---
